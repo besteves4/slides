@@ -7,7 +7,7 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 ## 2025
 
-[Paving the Way from Privacy to Trust](http://w3id.org/people/besteves/slides/2025/SoSy-ESPRESSO) <br>
+[Paving the Way from Privacy to Trust](https://w3id.org/people/besteves/slides/2025/SoSy-ESPRESSO) <br>
 
 <details>
 
@@ -15,7 +15,7 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
-[Advancing legal compliance in the Solid ecosystem with DPV](http://w3id.org/people/besteves/slides/2025/SoSy-ELSA) <br>
+[Advancing legal compliance in the Solid ecosystem with DPV](https://w3id.org/people/besteves/slides/2025/SoSy-ELSA) <br>
 
 <details>
 
