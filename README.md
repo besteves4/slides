@@ -23,6 +23,16 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+## 2023
+
+[Using Patterns to Manage Governance of Solid Apps](https://w3id.org/people/besteves/slides/2023/PLASMA)<br>
+
+<details>
+
+- Presented at the [14th Workshop on Ontology Design and Patterns (WOP 2023)](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2023/) co-located with the [22nd International Semantic Web Conference (ISWC 2023)](https://iswc2023.semanticweb.org/).
+
+</details>
+
 ## 2021
 
 [ODRL Profile for Expressing Consent through Granular Access Control Policies in Solid](https://w3id.org/people/besteves/slides/2021/OAC)<br>
