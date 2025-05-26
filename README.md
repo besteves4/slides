@@ -33,6 +33,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+[Semantics for Implementing Data Reuse and Altruism under EU's Data Governance Act](https://w3id.org/people/besteves/slides/2023/DGA)<br>
+
+<details>
+
+- Presented at the [19th International Conference on Semantic Systems (SEMANTiCS) (WOP 2023)](https://2023-eu.semantics.cc).
+
+</details>
+
 ## 2022
 
 [Fostering trust with transparency in the data economy era: an integrated ethical, legal, and knowledge engineering approach](https://w3id.org/people/besteves/slides/2022/PPOP)<br>
