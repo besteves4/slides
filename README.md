@@ -33,6 +33,16 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+## 2022
+
+[Fostering trust with transparency in the data economy era: an integrated ethical, legal, and knowledge engineering approach](https://w3id.org/people/besteves/slides/2022/PPOP)<br>
+
+<details>
+
+- Presented at the [1st International Workshop on Data Economy (DE 2022)](https://sites.google.com/view/dataeconomy2022) co-located with the [18th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 2022)](https://conferences2.sigcomm.org/co-next/2022/#!/home).
+
+</details>
+
 ## 2021
 
 [ODRL Profile for Expressing Consent through Granular Access Control Policies in Solid](https://w3id.org/people/besteves/slides/2021/OAC)<br>
