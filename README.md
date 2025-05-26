@@ -37,7 +37,7 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 <details>
 
-- Presented at the [19th International Conference on Semantic Systems (SEMANTiCS) (WOP 2023)](https://2023-eu.semantics.cc).
+- Presented at the [19th International Conference on Semantic Systems (SEMANTiCS 2023)](https://2023-eu.semantics.cc).
 
 </details>
 
