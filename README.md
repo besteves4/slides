@@ -60,3 +60,13 @@ List of slides related to presentations for conferences/workshops and invited ta
 - Presented at the [1st International Workshop on Consent Management in Online Services, Networks and Things (COnSeNT 2021)](https://privacy-as-expected.org/consent2021/) co-located with the [6th IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2021/).
 
 </details>
+
+## 2020
+
+[Digital Representation of Privacy Terms: A Case Study in Machine-Readable Policies for Healthcare and Genomics](https://w3id.org/people/besteves/slides/2020/PhD-Consortium)<br>
+
+<details>
+
+- Presented at the Doctoral Consortium of the [33rd International Conference on Legal Knowledge and Information Systems​](https://jurix2020.law.muni.cz).
+
+</details>
