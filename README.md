@@ -43,6 +43,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 ## 2022
 
+[Automating the response to GDPR’s Right of Access](https://w3id.org/people/besteves/slides/2022/right-access)<br>
+
+<details>
+
+- Presented at the [35th International Conference on Legal Knowledge and Information Systems (JURIX 2022)](https://jurix2022.rechtsinformatik.saarland).
+
+</details>
+
 [Fostering trust with transparency in the data economy era: an integrated ethical, legal, and knowledge engineering approach](https://w3id.org/people/besteves/slides/2022/PPOP)<br>
 
 <details>
