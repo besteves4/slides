@@ -23,6 +23,16 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+## 2024
+
+[How to Manage My Data? With Machine-Interpretable GDPR Rights!](https://w3id.org/people/besteves/slides/2024/rights) <br>
+
+<details>
+
+- Presented at the [37th International Conference on Legal Knowledge and Information Systems (JURIX 2024)](https://jurix2024.law.muni.cz).
+
+</details>
+
 ## 2023
 
 [Using Patterns to Manage Governance of Solid Apps](https://w3id.org/people/besteves/slides/2023/PLASMA)<br>
