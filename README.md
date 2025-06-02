@@ -15,7 +15,7 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
-[SAutomated Policy Negotiation: a Four-Course Meal](https://w3id.org/people/besteves/slides/2025/OPAL-negotiation)<br>
+[Automated Policy Negotiation: a Four-Course Meal](https://w3id.org/people/besteves/slides/2025/OPAL-negotiation)<br>
 
 <details>
 
