@@ -7,6 +7,22 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 ## 2025
 
+[Semantic Framework for Legally-aligned Health Data Exchanges](https://w3id.org/people/besteves/slides/2025/OPAL-HEDGE)<br>
+
+<details>
+
+- Presented at the [1st ODRL And Beyond: Practical Applications And Challenges For Policy-Base Access And Usage Control (OPAL 2025)](https://opal-workshop.github.io/2025/) co-located with the [22nd Extended Semantic Web Conference (ESWC 2025)](https://iswc2023.semanticweb.org/).
+
+</details>
+
+[SAutomated Policy Negotiation: a Four-Course Meal](https://w3id.org/people/besteves/slides/2025/OPAL-negotiation)<br>
+
+<details>
+
+- Presented at the [1st ODRL And Beyond: Practical Applications And Challenges For Policy-Base Access And Usage Control (OPAL 2025)](https://opal-workshop.github.io/2025/) co-located with the [22nd Extended Semantic Web Conference (ESWC 2025)](https://iswc2023.semanticweb.org/).
+
+</details>
+
 [Paving the Way from Privacy to Trust](https://w3id.org/people/besteves/slides/2025/SoSy-ESPRESSO) <br>
 
 <details>
