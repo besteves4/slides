@@ -7,6 +7,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 ## 2025
 
+[Trust Envelopes as Instruments of Transparency and Accountability](https://w3id.org/people/besteves/slides/2025/SolidCommunity-Trust)<br>
+
+<details>
+
+- Presented at the [Solid Foundations, Smart Spaces: Transforming Health Through Data](https://solidcommunity.be/events/solid-foundations-smart-spaces-transforming-health-through-data/) event.
+
+</details>
+
 [Semantic Framework for Legally-aligned Health Data Exchanges](https://w3id.org/people/besteves/slides/2025/OPAL-HEDGE)<br>
 
 <details>
