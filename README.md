@@ -57,6 +57,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+[Semantic Representation of Privacy Terms and Policy-based Algorithms for Decentralised Data Environments](https://w3id.org/people/besteves/slides/2024/phd) <br>
+
+<details>
+
+- Slides of my PhD defense. PhD book available at https://w3id.org/people/besteves/phd/thesis/pdf.
+
+</details>
+
 ## 2023
 
 [Using Patterns to Manage Governance of Solid Apps](https://w3id.org/people/besteves/slides/2023/PLASMA)<br>
