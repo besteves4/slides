@@ -83,6 +83,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+[ODRL Policies - (Re)using assets on the Web](https://w3id.org/people/besteves/slides/2023/lecture-ODRL)<br>
+
+<details>
+
+- Guest lecture on [UGent's Knowledge Graphs course 2022/23](https://studiekiezer.ugent.be/studiefiche/en/E018160/2023).
+
+</details>
+
 ## 2022
 
 [Automating the response to GDPR’s Right of Access](https://w3id.org/people/besteves/slides/2022/right-access)<br>
