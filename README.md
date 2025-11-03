@@ -3,9 +3,17 @@
 List of slides related to presentations for conferences/workshops and invited talks
 
 ## Contact
-- Beatriz Esteves [:email:](mailto:beatriz.gesteves@upm.es) [:octocat:](https://github.com/besteves4)
+- Beatriz Esteves [:email:](mailto:beatriz.esteves@ugent.be) [:octocat:](https://github.com/besteves4)
 
 ## 2025
+
+[Capturing Requests and Context for ODRL-based Access and Usage Control](https://w3id.org/people/besteves/slides/2025/WOP-ODRL)<br>
+
+<details>
+
+- Presented at the [16th Workshop on Ontology Design and Patterns (WOP 2025)](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2025/index.html) co-located with the [24th International Semantic Web Conference 2025 (ISWC 2025)](https://iswc2025.semanticweb.org/).
+
+</details>
 
 [Trust Envelopes as Instruments of Transparency and Accountability](https://w3id.org/people/besteves/slides/2025/SolidCommunity-Trust)<br>
 
