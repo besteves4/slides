@@ -7,11 +7,35 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 ## 2025
 
+[Representing and enforcing policies with ODRL and DPV in decentralised systems](https://w3id.org/people/besteves/slides/2025/UPCAST)<br>
+
+<details>
+
+- Presented at the [UPCAST Workshop](https://www.law.kuleuven.be/citip/en/news/item/archived_news/upcast-workshop-8-9-december-2025).
+
+</details>
+
 [Capturing Requests and Context for ODRL-based Access and Usage Control](https://w3id.org/people/besteves/slides/2025/WOP-ODRL)<br>
 
 <details>
 
 - Presented at the [16th Workshop on Ontology Design and Patterns (WOP 2025)](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2025/index.html) co-located with the [24th International Semantic Web Conference 2025 (ISWC 2025)](https://iswc2025.semanticweb.org/).
+
+</details>
+
+[Contextualising the exchange of data on the Web](https://w3id.org/people/besteves/slides/2025/Responsible-AI-workshop)<br>
+
+<details>
+
+- Presented at the Workshop on Mechanisms for Governing Responsible AI and Data Science 2025.
+
+</details>
+
+[Paving the way from privacy to trust](https://w3id.org/people/besteves/slides/2025/LDAC-Keynote)<br>
+
+<details>
+
+- Presented at the [Linked Data in Architecture and Construction 2025](https://linkedbuildingdata.net/ldac2025/index.html) workshop.
 
 </details>
 
@@ -23,11 +47,19 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+[Doing a PhD: the story of Dr. Beatriz Esteves](https://w3id.org/people/besteves/slides/2025/ESWC-PhD)<br>
+
+<details>
+
+- Presented at the PhD Symposium of the [22nd Extended Semantic Web Conference (ESWC 2025)](https://2025.eswc-conferences.org).
+
+</details>
+
 [Semantic Framework for Legally-aligned Health Data Exchanges](https://w3id.org/people/besteves/slides/2025/OPAL-HEDGE)<br>
 
 <details>
 
-- Presented at the [1st ODRL And Beyond: Practical Applications And Challenges For Policy-Base Access And Usage Control (OPAL 2025)](https://opal-workshop.github.io/2025/) co-located with the [22nd Extended Semantic Web Conference (ESWC 2025)](https://iswc2023.semanticweb.org/).
+- Presented at the [1st ODRL And Beyond: Practical Applications And Challenges For Policy-Base Access And Usage Control (OPAL 2025)](https://opal-workshop.github.io/2025/) co-located with the [22nd Extended Semantic Web Conference (ESWC 2025)](https://2025.eswc-conferences.org).
 
 </details>
 
@@ -35,7 +67,7 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 <details>
 
-- Presented at the [1st ODRL And Beyond: Practical Applications And Challenges For Policy-Base Access And Usage Control (OPAL 2025)](https://opal-workshop.github.io/2025/) co-located with the [22nd Extended Semantic Web Conference (ESWC 2025)](https://iswc2023.semanticweb.org/).
+- Presented at the [1st ODRL And Beyond: Practical Applications And Challenges For Policy-Base Access And Usage Control (OPAL 2025)](https://opal-workshop.github.io/2025/) co-located with the [22nd Extended Semantic Web Conference (ESWC 2025)](https://2025.eswc-conferences.org).
 
 </details>
 
@@ -73,6 +105,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+[Balancing Access and Privacy of Personal Health Data](https://w3id.org/people/besteves/slides/2024/ESPRESSO) <br>
+
+<details>
+
+- Presented at the [ESPRESSO Workshop on Decentralised Web Search and Privacy-Preserving Information Retrieval 2024](https://espressoproject.org/london-june-24/)
+
+</details>
+
 ## 2023
 
 [Using Patterns to Manage Governance of Solid Apps](https://w3id.org/people/besteves/slides/2023/PLASMA)<br>
@@ -91,11 +131,43 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+[Enhancing Solid with Legally-aware Policies](https://w3id.org/people/besteves/slides/2023/GAI)<br>
+
+<details>
+
+- Presented at the [Governing Artificial Intelligence International Symposium 2023 (GAI 2023)](https://protect.oeg.fi.upm.es/protect-symposium/).
+
+</details>
+
+[Policies in Solid: The Road Ahead](https://w3id.org/people/besteves/slides/2023/SoSy)<br>
+
+<details>
+
+- Presented at the [Solid Symposium 2023](https://solid.ti.rw.fau.de/public/2023/solid-symposium/).
+
+</details>
+
+[Privacy Receipts in Solid Pods](https://w3id.org/people/besteves/slides/2023/DKG)<br>
+
+<details>
+
+- Presented at the [COST EU Workshop on Privacy Issues in Distributed Social Knowledge Graphs 2023](https://cost-dkg.eu/pidskg23).
+
+</details>
+
 [ODRL Policies - (Re)using assets on the Web](https://w3id.org/people/besteves/slides/2023/lecture-ODRL)<br>
 
 <details>
 
 - Guest lecture on [UGent's Knowledge Graphs course 2022/23](https://studiekiezer.ugent.be/studiefiche/en/E018160/2023).
+
+</details>
+
+[Altruistic (Re-)Use of Health Data through Semantic Policies](https://w3id.org/people/besteves/slides/2023/DPSN)<br>
+
+<details>
+
+- Presented at the [2nd DPSN International Data Protection Day](https://dataprotectionscholars.network/post/dpd2023-registrations/) event.
 
 </details>
 
@@ -109,6 +181,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+[Establishing Data (Re-)Use Agreements Through Semantic Policies for Legally-aware Data Sharing](https://w3id.org/people/besteves/slides/2022/SEMIC)<br>
+
+<details>
+
+- Presented at the [SEMIC Conference 2022](https://data.europa.eu/en/news-events/news/semic-conference-2022).
+
+</details>
+
 [Fostering trust with transparency in the data economy era: an integrated ethical, legal, and knowledge engineering approach](https://w3id.org/people/besteves/slides/2022/PPOP)<br>
 
 <details>
@@ -117,7 +197,31 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 </details>
 
+[Access control policies for Solid](https://w3id.org/people/besteves/slides/2022/DKG)<br>
+
+<details>
+
+- Presented at the [COST EU Workshop on Privacy Issues in Distributed Social Knowledge Graphs 2022](https://cost-dkg.eu/pidskg).
+
+</details>
+
+[“Who should I trust with my data?”: Are decentralised technologies the answer to achieving ethical and lawful data governance practices?](https://w3id.org/people/besteves/slides/2022/Common)<br>
+
+<details>
+
+- Presented at the [Data and the Common Workshop 2022](https://www.uu.nl/sites/default/files/Information%20-%20Seminar%20and%20workshop%20series%20on%20data%20commons%20June%202022.pdf).
+
+</details>
+
 ## 2021
+
+[Can privacy terms be negotiated in Solid’s personal datastores?](https://w3id.org/people/besteves/slides/2021/Privacy)<br>
+
+<details>
+
+- Presented at the [IEEE Symposium and Workshops on Security & Privacy 2021](https://www.ieee-security.org/TC/SP2021/index.html).
+
+</details>
 
 [ODRL Profile for Expressing Consent through Granular Access Control Policies in Solid](https://w3id.org/people/besteves/slides/2021/OAC)<br>
 
