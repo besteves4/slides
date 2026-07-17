@@ -5,7 +5,7 @@ List of slides related to presentations for conferences/workshops and invited ta
 ## Contact
 - Beatriz Esteves [:email:](mailto:beatriz.esteves@ugent.be) [:octocat:](https://github.com/besteves4)
 
-## 2025
+## 2026
 
 [Bridging DPV and ODRL for Legally-Oriented Usage Control in Data Spaces](https://beatrizesteves.org/slides/2026/SDS.pdf)<br>
 
