@@ -7,6 +7,16 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 ## 2025
 
+[Bridging DPV and ODRL for Legally-Oriented Usage Control in Data Spaces](https://beatrizesteves.org/slides/2026/SDS.pdf)<br>
+
+<details>
+
+- Presented at the [Fourth International Workshop on Semantics in Dataspaces (SDS 2026)](https://dbis.rwth-aachen.de/SDS26/) co-located with the [23rd Extended Semantic Web Conference 2026 (ESWC 2026)](https://2026.eswc-conferences.org).
+
+</details>
+
+## 2025
+
 [Representing and enforcing policies with ODRL and DPV in decentralised systems](https://w3id.org/people/besteves/slides/2025/UPCAST)<br>
 
 <details>
