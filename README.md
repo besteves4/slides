@@ -7,6 +7,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 ## 2026
 
+[Legally-Aligned Health Data Exchanges -- The PACSOI Use-Case](https://beatrizesteves.org/slides/2026/TheBrain-PACSOI.pdf)<br>
+
+<details>
+
+- Presented at the [AI for Health -- The Brain Community Event](https://community.thebrain.be/event/ai-for-health-3/register).
+
+</details>
+
 [Bridging DPV and ODRL for Legally-Oriented Usage Control in Data Spaces](https://beatrizesteves.org/slides/2026/SDS.pdf)<br>
 
 <details>
