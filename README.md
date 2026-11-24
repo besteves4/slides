@@ -7,6 +7,14 @@ List of slides related to presentations for conferences/workshops and invited ta
 
 ## 2026
 
+[Bridging Law and Technology for Trustworthy Data Sharing and Policy](https://beatrizesteves.org/slides/2026/UKKGS.pdf)<br>
+
+<details>
+
+- Presented at the [5th Symposium of the UK Interest Group on Knowledge Graphs](https://uk-knowledge-graphs.github.io/events/symposium-2026/).
+
+</details>
+
 [Legally-Aligned Health Data Exchanges -- The PACSOI Use-Case](https://beatrizesteves.org/slides/2026/TheBrain-PACSOI.pdf)<br>
 
 <details>
